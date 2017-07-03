@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#sheila-odonnell-cover  {
+background-image: url("http://i.imgur.com/7Phw2pN.png");
+}
+
+#sheila-odonnell-card {
+background-image: url("http://i.imgur.com/DLaw0lA.png");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
